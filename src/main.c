@@ -30,7 +30,7 @@ int main() {
 	int ndv=0, i;
 	int *valores;
 	char c='\0';
-	ndp=0;ndp=0;
+	ndp=0;ndv=0;
 	valores=(int*) malloc(MAX*sizeof(int));
 
 // lendo os numeros e descobrindo quantos sao
